@@ -1,0 +1,10 @@
+main{
+           @include main;
+    .section1{
+        @include section1;
+        
+    }
+    .section2{
+        @include section2;
+    }
+}
